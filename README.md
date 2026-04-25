@@ -54,7 +54,7 @@ python main.py
 - `logger.py` — Logging utilities
 
 ## License
-MIT License. See LICENSE file for details.
+MIT License.
 
 ---
 
