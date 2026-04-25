@@ -55,3 +55,7 @@ python main.py
 
 ## License
 MIT License. See LICENSE file for details.
+
+---
+
+*Created for learning and demonstration purposes.*
